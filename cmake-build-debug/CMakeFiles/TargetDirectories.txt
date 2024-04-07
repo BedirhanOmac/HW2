@@ -1,0 +1,3 @@
+/Users/bedirhanomac/Desktop/CS201/hw2_test/cmake-build-debug/CMakeFiles/hw2_test.dir
+/Users/bedirhanomac/Desktop/CS201/hw2_test/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/bedirhanomac/Desktop/CS201/hw2_test/cmake-build-debug/CMakeFiles/rebuild_cache.dir

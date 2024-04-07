@@ -1,0 +1,15 @@
+# ninja log v5
+1	39	1711886374667425421	CMakeFiles/hw2_test.dir/QuickSort.cpp.o	5c8017d0fd555b7a
+0	39	1711886374667417921	CMakeFiles/hw2_test.dir/InsertionSort.cpp.o	1c72169b8d183d83
+0	39	1711886374667456047	CMakeFiles/hw2_test.dir/SelectionSort.cpp.o	4b3da939e5944398
+1	40	1711886374667478005	CMakeFiles/hw2_test.dir/BubbleSort.cpp.o	e46af54117cfc7ec
+6	734	1712484130280747629	CMakeFiles/hw2_test.dir/main.cpp.o	de726ded98c6e980
+738	926	1712484130473678451	hw2_test	12cf4ff75c934d95
+5	501	1712486907280236199	CMakeFiles/hw2_test.dir/main.cpp.o	de726ded98c6e980
+15	51	1712487075282175531	CMakeFiles/hw2_test.dir/SortingAlgorithms.cpp.o	993b9e8d051e7dc3
+19	315	1712487378507486558	CMakeFiles/hw2_test.dir/SortingAlgorithms.cpp.o	993b9e8d051e7dc3
+7	400	1712487458029160454	CMakeFiles/hw2_test.dir/main.cpp.o	de726ded98c6e980
+23	59	1712487587908640992	CMakeFiles/hw2_test.dir/SortingAlgorithms.cpp.o	993b9e8d051e7dc3
+60	106	1712487587954317936	hw2_test	6965744a75a7ed14
+5	694	1712488672654218047	CMakeFiles/hw2_test.dir/main.cpp.o	de726ded98c6e980
+695	881	1712488672841693511	hw2_test	6965744a75a7ed14
